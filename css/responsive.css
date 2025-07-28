@@ -253,7 +253,7 @@ footer {padding-top: 30px;}
 .tab_d h3 {font-size: 22px;}
 section , .cta {padding: 60px 0;}
 .blog_block p{ overflow: hidden;display: -webkit-box;-webkit-line-clamp: 2;  line-clamp: 2; -webkit-box-orient: vertical;}
-.project_slider .swiper-slide h4 {font-size: 26px;}
+.project_slider .swiper-slide h4 {font-size: 24px;}
 
 }
 @media (max-width:550px){  
